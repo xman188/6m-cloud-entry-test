@@ -103,10 +103,12 @@ D - The principle of performance is not applied.
 *Q5B: What do you suggest could be done to improve the situation?*
 
 ```
-Answer here
-```
 Q5A: B - The principle of observability is not applied.
+
 Q5B: Identify the issues or troubleshooting with system logs. Keep monitoring system health and will trigger alert when encountered abnormalities.
+
+```
+
  
 ---
 
