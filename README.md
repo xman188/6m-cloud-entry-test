@@ -82,8 +82,8 @@ Use [draw.io](draw.io) to draw a system architecture diagram as described below:
 - The database must not be connected to the internet gateway.
 
 Share the link to your image of diagram.
-
 https://app.diagrams.net/#LSystem%20Architecture%20Diagram
+
 ---
 
 **Question 5 - System Error Management**
@@ -105,7 +105,9 @@ D - The principle of performance is not applied.
 ```
 Answer here
 ```
-
+Q5A: B - The principle of observability is not applied.
+Q5B: Identify the issues or troubleshooting with system logs. Keep monitoring system health and will trigger alert when encountered abnormalities.
+ 
 ---
 
 END
